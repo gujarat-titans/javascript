@@ -1,0 +1,245 @@
+repo_name: gujarat-titans/javascript
+report_id: 8f072e070745e61a50685cb1a6e829d8
+repo_type: Public
+timestamp: '2023-11-08T08:44:09+00:00'
+requested_by: ljharb
+provider: github
+branch: master
+detected_tools_count: 21
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 0.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: packages/eslint-config-airbnb/test/.eslintrc
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/require-allow-edits.yml"
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source: ".github/workflows/rebase.yml"
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.21.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: packages/eslint-config-airbnb-base/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: babel-preset-airbnb
+  description: A babel preset for transforming your JavaScript for Airbnb
+  package_url: https://www.npmjs.com/babel-preset-airbnb
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16634/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: packages/eslint-config-airbnb-base/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: babel-tape-runner
+  description: Babel + Tape for running your ES Next tests
+  package_url: https://www.npmjs.com/babel-tape-runner
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16894/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: packages/eslint-config-airbnb-base/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: eslint-config-airbnb-base
+  description: Airbnb's base JS ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb-base
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: eslint-find-rules
+  description: Find built-in ESLint rules you don't have in your custom config
+  package_url: https://www.npmjs.com/eslint-find-rules
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17563/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: packages/eslint-config-airbnb-base/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.27.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: packages/eslint-config-airbnb-base/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.32.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: in-publish
+  description: Detect if we were run as a result of `npm publish`
+  package_url: https://www.npmjs.com/in-publish
+  version: 2.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16666/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: packages/eslint-config-airbnb-base/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: markdownlint-cli
+  description: MarkdownLint Command Line Interface
+  package_url: https://www.npmjs.com/markdownlint-cli
+  version: 0.34.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17273/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: package.json
+  detection_source: package.json
+- name: safe-publish-latest
+  description: Ensure that when you `npm publish`
+  package_url: https://www.npmjs.com/safe-publish-latest
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17965/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: packages/eslint-config-airbnb-base/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  version: 5.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: packages/eslint-config-airbnb-base/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
