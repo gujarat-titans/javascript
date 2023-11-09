@@ -30,8 +30,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gujarat-titans/javascript](https://github.com/gujarat-titans/javascript)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|406<br/>Contributors|11/08/23 <br/>Report generated|05/15/23<br/>Last commit date|
-|------|------|------|------|
+|21<br/>Tools used|11/09/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
@@ -120,19 +120,19 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.21.5|N/A|N/A |MIT|N/A|
-|[babel-preset-airbnb](https://www.npmjs.com/babel-preset-airbnb)|v4.5.0|N/A|N/A |MIT|N/A|
-|[babel-tape-runner](https://www.npmjs.com/babel-tape-runner)|v3.0.0|N/A|N/A |MIT|N/A|
-|[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v15.0.0|N/A|N/A |MIT|N/A|
-|[eslint-find-rules](https://www.npmjs.com/eslint-find-rules)|v4.1.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.27.5|N/A|N/A |MIT|N/A|
-|[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.7.1|N/A|N/A |MIT|N/A|
-|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.32.2|N/A|N/A |MIT|N/A|
-|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|N/A|N/A |MIT|N/A|
-|[in-publish](https://www.npmjs.com/in-publish)|v2.0.1|N/A|N/A |ISC|N/A|
-|[markdownlint-cli](https://www.npmjs.com/markdownlint-cli)|v0.34.0|N/A|N/A |MIT|N/A|
-|[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v2.0.0|N/A|N/A |MIT|N/A|
-|[tape](https://www.npmjs.com/tape)|v5.6.3|N/A|N/A |MIT|N/A|
+|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.21.5|05/15/23|Jordan Harband |MIT|N/A|
+|[babel-preset-airbnb](https://www.npmjs.com/babel-preset-airbnb)|v4.5.0|05/15/23|Jordan Harband |MIT|N/A|
+|[babel-tape-runner](https://www.npmjs.com/babel-tape-runner)|v3.0.0|05/15/23|Jordan Harband |MIT|N/A|
+|[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v15.0.0|02/09/23|Jordan Harband |MIT|N/A|
+|[eslint-find-rules](https://www.npmjs.com/eslint-find-rules)|v4.1.0|02/09/23|Jordan Harband |MIT|N/A|
+|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.27.5|02/09/23|Jordan Harband |MIT|N/A|
+|[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.7.1|02/09/23|Jordan Harband |MIT|N/A|
+|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.32.2|02/09/23|Jordan Harband |MIT|N/A|
+|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|02/09/23|Jordan Harband |MIT|N/A|
+|[in-publish](https://www.npmjs.com/in-publish)|v2.0.1|11/09/21|Jordan Harband |ISC|N/A|
+|[markdownlint-cli](https://www.npmjs.com/markdownlint-cli)|v0.34.0|05/15/23|Jordan Harband |MIT|N/A|
+|[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v2.0.0|11/09/21|Jordan Harband |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v5.6.3|02/09/23|Jordan Harband |MIT|N/A|
 
 <br/>
 <div align='center'>
