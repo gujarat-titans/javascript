@@ -1,7 +1,7 @@
 repo_name: gujarat-titans/javascript
-report_id: 8f072e070745e61a50685cb1a6e829d8
+report_id: 8e3e7fb3ee1860d025f123ff341edad7
 repo_type: Public
-timestamp: '2023-11-08T08:44:09+00:00'
+timestamp: '2023-11-09T11:22:55+00:00'
 requested_by: ljharb
 provider: github
 branch: master
@@ -29,6 +29,8 @@ tools:
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
   detection_source_url: packages/eslint-config-airbnb/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-02-09 06:59:18.000000000 Z
 - name: Babel
   description: Use next generation JavaScript, today.
   website_url: http://babeljs.io/
@@ -39,6 +41,8 @@ tools:
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2016-07-24 04:28:04.000000000 Z
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
   website_url: http://eslint.org/
@@ -49,6 +53,8 @@ tools:
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source: packages/eslint-config-airbnb/test/.eslintrc
+  last_updated_by: Jake Teton-Landis
+  last_updated_on: 2015-07-30 22:08:47.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -67,6 +73,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/require-allow-edits.yml"
+  last_updated_by: Jordan Harband
+  last_updated_on: 2021-11-05 06:05:04.000000000 Z
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
     IBM, and Lyft
@@ -78,6 +86,8 @@ tools:
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source: ".github/workflows/rebase.yml"
+  last_updated_by: Jordan Harband
+  last_updated_on: 2021-11-05 06:05:04.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -87,6 +97,8 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jake Teton-Landis
+  last_updated_on: 2015-05-22 17:38:21.000000000 Z
 - name: "@babel/runtime"
   description: Babel's modular runtime helpers
   package_url: https://www.npmjs.com/@babel/runtime
@@ -99,6 +111,8 @@ tools:
   image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
   detection_source_url: packages/eslint-config-airbnb-base/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-05-15 17:20:15.000000000 Z
 - name: babel-preset-airbnb
   description: A babel preset for transforming your JavaScript for Airbnb
   package_url: https://www.npmjs.com/babel-preset-airbnb
@@ -111,6 +125,8 @@ tools:
   image_url: https://img.stackshare.io/package/16634/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
   detection_source_url: packages/eslint-config-airbnb-base/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-05-15 17:20:15.000000000 Z
 - name: babel-tape-runner
   description: Babel + Tape for running your ES Next tests
   package_url: https://www.npmjs.com/babel-tape-runner
@@ -123,6 +139,8 @@ tools:
   image_url: https://img.stackshare.io/package/16894/default_7b9968788548874538c601457e8dcd9c74bd2051.png
   detection_source_url: packages/eslint-config-airbnb-base/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-05-15 17:20:15.000000000 Z
 - name: eslint-config-airbnb-base
   description: Airbnb's base JS ESLint config, following our styleguide
   package_url: https://www.npmjs.com/eslint-config-airbnb-base
@@ -135,6 +153,8 @@ tools:
   image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
   detection_source_url: packages/eslint-config-airbnb/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-02-09 06:59:18.000000000 Z
 - name: eslint-find-rules
   description: Find built-in ESLint rules you don't have in your custom config
   package_url: https://www.npmjs.com/eslint-find-rules
@@ -147,6 +167,8 @@ tools:
   image_url: https://img.stackshare.io/package/17563/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
   detection_source_url: packages/eslint-config-airbnb-base/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-02-09 06:19:53.000000000 Z
 - name: eslint-plugin-import
   description: Import with sanity
   package_url: https://www.npmjs.com/eslint-plugin-import
@@ -159,6 +181,8 @@ tools:
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
   detection_source_url: packages/eslint-config-airbnb-base/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-02-09 06:19:53.000000000 Z
 - name: eslint-plugin-jsx-a11y
   description: Static AST checker for accessibility rules on JSX elements
   package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
@@ -171,6 +195,8 @@ tools:
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: packages/eslint-config-airbnb/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-02-09 06:59:18.000000000 Z
 - name: eslint-plugin-react
   description: React specific linting rules for ESLint
   package_url: https://www.npmjs.com/eslint-plugin-react
@@ -183,6 +209,8 @@ tools:
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: packages/eslint-config-airbnb/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-02-09 06:59:18.000000000 Z
 - name: eslint-plugin-react-hooks
   description: ESLint rules for React Hooks
   package_url: https://www.npmjs.com/eslint-plugin-react-hooks
@@ -195,6 +223,8 @@ tools:
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
   detection_source_url: packages/eslint-config-airbnb/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-02-09 06:59:18.000000000 Z
 - name: in-publish
   description: Detect if we were run as a result of `npm publish`
   package_url: https://www.npmjs.com/in-publish
@@ -207,6 +237,8 @@ tools:
   image_url: https://img.stackshare.io/package/16666/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
   detection_source_url: packages/eslint-config-airbnb-base/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2021-11-09 05:21:58.000000000 Z
 - name: markdownlint-cli
   description: MarkdownLint Command Line Interface
   package_url: https://www.npmjs.com/markdownlint-cli
@@ -219,6 +251,8 @@ tools:
   image_url: https://img.stackshare.io/package/17273/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-05-15 17:19:05.000000000 Z
 - name: safe-publish-latest
   description: Ensure that when you `npm publish`
   package_url: https://www.npmjs.com/safe-publish-latest
@@ -231,6 +265,8 @@ tools:
   image_url: https://img.stackshare.io/package/17965/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
   detection_source_url: packages/eslint-config-airbnb-base/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2021-11-09 05:21:58.000000000 Z
 - name: tape
   description: Tap-producing test harness for node and browsers
   package_url: https://www.npmjs.com/tape
@@ -243,3 +279,5 @@ tools:
   image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: packages/eslint-config-airbnb-base/package.json
   detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2023-02-09 06:11:42.000000000 Z
